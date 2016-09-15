@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>~/.geeklets/spotify-now-playing.sh</string>
+	<string>~/.geeklets/scripts/spotify-now-playing.sh</string>
 	<key>DisplayID</key>
 	<integer>69679040</integer>
 	<key>DropShadow</key>
