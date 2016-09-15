@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-osascript spotify-now-playing.scpt
+osascript ${BASH_SOURCE%/*}/spotify-now-playing.scpt
