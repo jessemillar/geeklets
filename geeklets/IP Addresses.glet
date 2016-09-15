@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>~/.geeklets/ip-addresses.sh</string>
+	<string>~/.geeklets/scripts/ip-addresses.sh</string>
 	<key>DisplayID</key>
 	<integer>69679040</integer>
 	<key>DropShadow</key>
@@ -102,7 +102,7 @@
 	<key>FontSize</key>
 	<real>12</real>
 	<key>GeekletFrame</key>
-	<string>{{10, -10}, {150, 26}}</string>
+	<string>{{10, -10}, {203, 26}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>

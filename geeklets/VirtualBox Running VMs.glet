@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>~/.geeklets/scripts/spotify-now-playing.sh</string>
+	<string>~/.geeklets/scripts/virtualbox-running-vms.sh</string>
 	<key>DisplayID</key>
 	<integer>69679040</integer>
 	<key>DropShadow</key>
@@ -102,19 +102,23 @@
 	<key>FontSize</key>
 	<real>12</real>
 	<key>GeekletFrame</key>
-	<string>{{-10, -10}, {500, 26}}</string>
+	<string>{{230, 32}, {550, 150}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>Name</key>
-	<string>Spotify Now Playing</string>
+	<string>VirtualBox Running VMs</string>
 	<key>RefreshInterval</key>
-	<integer>1</integer>
+	<integer>5</integer>
 	<key>RelativePosition</key>
-	<integer>9</integer>
+	<integer>1</integer>
+	<key>RightToLeft</key>
+	<false/>
 	<key>SetLocale</key>
 	<true/>
+	<key>StatusImagePosition</key>
+	<integer>1</integer>
 	<key>SuccessImage</key>
 	<data>
 	TU0AKgAABAj///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAAAAGgAAACAAAAAaAAAA
@@ -204,8 +208,6 @@
 	6dDqW+rl63Dr++yG7RHtnO4o7rTvQO/M8Fjw5fFy8f/yjPMZ86f0NPTC9VD13vZt9vv3
 	ivgZ+Kj5OPnH+lf65/t3/Af8mP0p/br+S/7c/23//w==
 	</data>
-	<key>TextAlignment</key>
-	<integer>1</integer>
 	<key>TextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
