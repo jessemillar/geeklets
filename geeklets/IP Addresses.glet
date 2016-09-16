@@ -102,7 +102,11 @@
 	<key>FontSize</key>
 	<real>12</real>
 	<key>GeekletFrame</key>
+<<<<<<< HEAD
 	<string>{{10, -10}, {203, 26}}</string>
+=======
+	<string>{{10, -10}, {200, 26}}</string>
+>>>>>>> 9ac6786304beb09133c5a2aeab4198a6550b82ab
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
